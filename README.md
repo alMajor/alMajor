@@ -1,50 +1,13 @@
-<div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/67/fc/cd/67fccd215854dffa6a9d289870479a01.gif" width="300"/><br>
-</div>
 
-<h3 align="center">Hello there 👋</h3>
+### <h3 align="left">Hello there 👋</h3>
 
----
-
-### :man_technologist: About Me :
-
-I am a Full stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📌 I work as a Software Engineer, Fullstack web developer.
-- :seedling: I contribute to frontend and backend for building web applications.
-- :telescope: Intrested In Cybersecurity bugs, Data Analysis, Electrical engineering.
-- 🗣 I speak Arabic (Native), English (Intermediate), español (Beginner).
-- ✨ Got invited to attend <a href="https://blackhatmea.com/">Blackhat MEA</a> by SAFCSP.
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=almajor&theme=highcontrast&hide_border=true&border_radius=16&title_color=FA8B00&text_bold=false)
-
-<div>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwind" alt="tailwind" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="Jquery" alt="Jquery" width="40" height="40"/>
+<p align="left">I am Abdulrahman Abdullah, a Fullstack web Developer.<br>Intrested In Cybersecurity, Data Analysis, Machine Learning.</p>
+How to reach me: 
+<div id="badges">
+  <a href="mailto:abdulrahmanaab7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
 
 ---
-
-### 📊 My Stats :
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=almajor&show_icons=true&theme=highcontrast&hide_border=true&border_radius=16&title_color=FA8B00&text_bold=false&icon_color=9F9F9E)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=almajor&theme=highcontrast&hide_border=true&border_radius=16)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=almajor&theme=default&show_icons=true)
