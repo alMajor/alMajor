@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="300"/><br>
-  <img src="https://komarev.com/ghpvc/?username=almajor&style=flat-square&color=yellow" alt=""/>
+  <img src="https://i.pinimg.com/originals/67/fc/cd/67fccd215854dffa6a9d289870479a01.gif" width="300"/><br>
 </div>
 
 <h3 align="center">Hello there 👋</h3>
@@ -9,12 +8,12 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I’m working as a Software Engineer, Web Developer.
-
+I am a Full stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 📌 I work as a Software Engineer, Fullstack web developer.
 - :seedling: I contribute to frontend and backend for building web applications.
-
-- 🎮 In my free time, I play video games.
+- :telescope: Intrested In Cybersecurity bugs, Data Analysis, Electrical engineering.
+- 🗣 I speak Arabic (Native), English (Intermediate), español (Beginner).
+- ✨ Got invited to attend <a href="https://blackhatmea.com/">Blackhat MEA</a> by SAFCSP.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -44,7 +43,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :fire: My Stats :
+### 📊 My Stats :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=almajor&show_icons=true&theme=highcontrast&hide_border=true&border_radius=16&title_color=FA8B00&text_bold=false&icon_color=9F9F9E)
 
